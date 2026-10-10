@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "id": "ukuoptimizer",
+  "id": "elytraswap",
   "version": "${version}",
-  "name": "UKU Elytra Optimizer",
-  "description": "Optimizes elytra rewriting elytra mechanics",
-  "authors": ["UKU"],
+  "name": "Elytra Swap",
+  "description": "Press R: swap to elytra, wear them, then switch to slot 4.",
+  "authors": ["me"],
   "license": "CC0-1.0",
   "environment": "client",
   "entrypoints": {
