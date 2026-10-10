@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "elytraswap",
+  "version": "${version}",
+  "name": "Elytra Swap",
+  "description": "Press R: swap to elytra, wear them, then switch to slot 4.",
+  "authors": ["me"],
+  "license": "CC0-1.0",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.example.elytraswap.ElytraSwapClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
